@@ -19,7 +19,7 @@ A program a mérésekből:
 
 ## Miért observability?
 
-Rendszerintegrációs mérnökként dolgozom a MÁV Szolgáltató Központ Zrt.-nél, és a munkaköröm egyik kiemelt területe az observability: a vasúti termelési rendszerek (többek között GVK, ETR, JÉ, MÁV+, EMIG, Pass2) Dynatrace Managed alapú felügyelete. Több mint 14 környezet monitorozási infrastruktúráját üzemeltetem, problémákat elemzek a válaszidő-, hiba- és adatbázis-metrikák alapján, és az Observability Hungary 2026 konferencián társelőadóként mutattuk be a MÁV nyolcéves Dynatrace-monitorozási útját.
+Rendszerintegrációs mérnökként dolgozom a MÁV Szolgáltató Központ Zrt.-nél, és a munkaköröm egyik kiemelt területe az observability: a vasúti üzemi rendszerek (többek között GVK, ETR, JÉ, MÁV+, EMIG, Pass2) Dynatrace Managed alapú felügyelete. Több mint 14 környezet monitorozási infrastruktúráját üzemeltetem, problémákat elemzek a válaszidő-, hiba- és adatbázis-metrikák alapján, és az Observability Hungary 2026 konferencián társelőadóként mutattuk be a MÁV nyolcéves Dynatrace-monitorozási útját.
 
 A projektben ennek a szemléletnek az alapjait valósítottam meg kicsiben, Pythonban. Ugyanazokat a fogalmakat használja, mint a nagyvállalati eszközök:
 
