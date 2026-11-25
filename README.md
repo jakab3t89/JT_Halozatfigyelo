@@ -1,7 +1,7 @@
 # JT Hálózatfigyelő
 
-**Hallgató:** Jakab Tibor
-**Tantárgy:** Szkript nyelvek (Python) – projektfeladat
+**Hallgató:** Jakab Tibor  
+**Tantárgy:** Szkript nyelvek (Python) – projektfeladat  
 **Tagozat:** nappali
 
 ## Feladat leírása
