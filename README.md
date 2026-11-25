@@ -1,8 +1,8 @@
 # JT Hálózatfigyelő
 
-**Hallgató:** Jakab Tibor  
+**Hallgató:** Jakab Tibor  CFFA3D
 **Tantárgy:** Szkript nyelvek (Python) – projektfeladat  
-**Tagozat:** nappali
+**Tagozat:** Levelező
 
 ## Feladat leírása
 
