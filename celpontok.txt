@@ -1,0 +1,5 @@
+google.com;443
+github.com;443
+uniduna.hu;443
+1.1.1.1;53
+localhost;8080
