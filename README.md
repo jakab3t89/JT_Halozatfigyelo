@@ -125,5 +125,3 @@ A projektben ennek a szemléletnek az alapjait valósítottam meg kicsiben, Pyth
 2. A `main.py`, a `JT_halozat.py` és a `celpontok.txt` legyen egy mappában.
 3. Indítás: `python main.py` (vagy PyCharmból).
 4. Kattints a „Figyelés indítása” gombra, majd jelölj ki egy sort a grafikonhoz.
-
-Tipp a bemutatáshoz: ha a küszöböt alacsonyra (pl. 20 ms) állítod, a lassulás- és helyreállás-események azonnal megjelennek. A `localhost:8080` célpont szándékosan szerepel a listában: ha a gépen nem fut semmi a 8080-as porton, ezen látszik, hogyan néz ki egy kiesés.
